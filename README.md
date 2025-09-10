@@ -1,2 +1,2 @@
 # LifeofPy
-Python sample files 
+Python sample files, have uploaded files of python learning journey
